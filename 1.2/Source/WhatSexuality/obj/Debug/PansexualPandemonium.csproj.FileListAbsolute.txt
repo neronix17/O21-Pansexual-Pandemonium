@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[O21] Pansexual Pandemonium\1.2\Assemblies\PansexualPandemonium.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[O21] Pansexual Pandemonium\1.2\Source\WhatSexuality\obj\Debug\PansexualPandemonium.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[O21] Pansexual Pandemonium\1.2\Source\WhatSexuality\obj\Debug\PansexualPandemonium.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[O21] Pansexual Pandemonium\1.2\Source\WhatSexuality\obj\Debug\PansexualPandemonium.dll

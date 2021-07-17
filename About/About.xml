@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[O21] Pansexual Pandemonium</name>
+	<author>Neronix17</author>
+	<packageId>neronix17.pansexualpandemonium</packageId>
+	<url></url>
+	<supportedVersions>
+		<li>1.2</li>
+		<li>1.3</li>
+	</supportedVersions>
+	<description>Removes the concept of sexual preference in the game by making everyone Pansexual. Bisexual and Gay traits have been disabled but the Asexual trait is still there which will just disable romantic relationships for a pawn like before.</description>
+</ModMetaData>

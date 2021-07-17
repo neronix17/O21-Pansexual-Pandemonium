@@ -1,0 +1,10 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[O21] What Sexuality\1.2\Source\WhatSexuality\bin\Debug\WhatSexuality.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[O21] What Sexuality\1.2\Source\WhatSexuality\bin\Debug\WhatSexuality.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[O21] What Sexuality\1.2\Source\WhatSexuality\obj\Debug\WhatSexuality.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[O21] What Sexuality\1.2\Source\WhatSexuality\obj\Debug\WhatSexuality.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[O21] What Sexuality\1.2\Source\WhatSexuality\obj\Debug\WhatSexuality.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[O21] What Sexuality\1.2\Assemblies\WhatSexuality.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[O21] Pansexual Pandemonium\1.2\Assemblies\WhatSexuality.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[O21] Pansexual Pandemonium\1.2\Source\WhatSexuality\obj\Debug\WhatSexuality.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[O21] Pansexual Pandemonium\1.2\Source\WhatSexuality\obj\Debug\WhatSexuality.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[O21] Pansexual Pandemonium\1.2\Source\WhatSexuality\obj\Debug\WhatSexuality.dll
